@@ -31,6 +31,8 @@ h2 {
   color:#4aaaa5;
   font-weight:600;
   line-height:90px;
+  border-bottom:2px solid #dddddd;
+  margin-bottom:30px;
 }
 h3 {
   font-size:20px;
@@ -75,10 +77,6 @@ section {
   background:#ffffff;
   border:1px solid #dddddd;
   margin-bottom:100px;
-}
-article {
-  border-top:2px solid #dddddd;
-  padding-top:30px;
   padding-bottom:30px;
 }
 aside {
