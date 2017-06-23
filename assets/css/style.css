@@ -116,36 +116,40 @@ footer {
 }
 .navitemborder {
   width:70px;
-  height:30px;
+  height:20px;
   border-left:1px solid #f1f1f1;
-  padding:7px;
+  padding:3px;
   float:left;
   text-align: center;
+  line-height:20px;
 }
 .navitemborder:hover {
   width:70px;
-  height:30px;
+  height:20px;
   border-left:1px solid #f1f1f1;
-  padding:7px;
+  padding:3px;
   float:left;
   text-align: center;
   background-color:#4aaaa5;
+  line-height:20px;
 }
 .navitem {
   width:70px;
-  height:30px;
+  height:20px;
   float:left;
-  padding:7px;
+  padding:3px;
   text-align: center;
+  line-height:20px;
 }
 .navitem:hover {
     background-color:#4aaaa5;
     color: #ffffff;
     width:70px;
-    height:30px;
+    height:20px;
     float:left;
-    padding:7px;
+    padding:3px;
     text-align: center;
+    line-height:20px;
 }
 .leftfloatimg{
   width:200px;
